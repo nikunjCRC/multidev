@@ -14,3 +14,7 @@ function c(){
 function e(){
     return null;
 }
+
+function d(){
+    return null;
+}
