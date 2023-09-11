@@ -10,3 +10,7 @@ function b(){
 function c(){
     return null;
 }
+
+function e(){
+    return null;
+}
