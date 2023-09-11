@@ -114,6 +114,10 @@ class _MyHomePageState extends State<MyHomePage> {
               'Only Counter : $_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              'Only Counter : $_counter',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),
