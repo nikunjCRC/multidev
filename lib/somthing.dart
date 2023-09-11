@@ -1,3 +1,4 @@
+/*
 function a(){
     // sakdjlfhsdakjfhfasdkj
     return null;
@@ -17,4 +18,4 @@ function e(){
 
 function d(){
     return null;
-}
+}*/
