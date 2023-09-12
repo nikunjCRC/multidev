@@ -115,6 +115,10 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
+              'Feature > D Counter added : $_counter',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Text(
               'Only Counter : $_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
